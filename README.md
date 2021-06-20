@@ -12,6 +12,8 @@ Anteriormente tratabamos de usar como base bootstrap para un fácil uso y mejor 
 Los códigos son abiertos, puedes ocuparlos pero no se permite su distribución con su supuesta adquisición, no se les pide mencionar a Paoo CSS. Puedes ayudar dando tu aportación enviando los códigos con un ejemplo de uso al sitio web “https://dev.josprox.com/contacto”, Recuerda que todos los códigos deben ser responsivos.
 Visita nuestro sitio web para poder guiarte de ejemplos desde el panel: https://dev.josprox.com/panel
 
+Si usted gusta, los archivos pueden duplicar el sitio web de paoo, ya no damos ejemplos mas que la descarga de libreria, pero puede checar nuestro codigo del sitio con solo inspeccionarlos.
+
 - 📫 Copyright (c) 2021 de JOSPROX MX/ JOSPROX Internacional (https://josprox.com/  ,  https://josprox.com.mx/) Tales del presente adquisidor (José Luis Melchor Estrada).
 - - Los códigos son abiertos, puedes ocuparlos pero no se permite su distribución con su supuesta adquisición, de hacerlo se mandará una demanda o actividad nula para esta persona, siempre será para aclarar que el codigo es de José Luis Melchor Estrada pero sin restricciones como se mencionará más adelante.
 - Puedes ayudar dando tu aportación enviando los códigos con un ejemplo de uso al correo “joss@int.josprox.com”.
