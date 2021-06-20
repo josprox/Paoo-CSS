@@ -661,9 +661,9 @@ body {
     transition: all 0.2s;
     background-image: radial-gradient(circle at 50% -20.71%, #a7ffff 0, #7fffff 25%, #3cf2f2 50%, #00dae3 75%, #00c7da 100%);
     border: none;
-    font-size: 0.55em;
+    font-size: 1em;
     font-weight: bolder;
-    color: white;
+    color: var(--blanco);
     padding: 15px 20px;
     border-radius: var(--br);
     text-decoration: none;
@@ -1573,4 +1573,14 @@ text-decoration: none;
 
 .separador-10{
   border-bottom: 100px;
+}
+
+.special{
+  width: auto;
+  height: 50%;
+}
+
+.special--tarjeta{
+  width: 35%;
+  height: 35%;
 }
